@@ -13,9 +13,9 @@ The purpose of this analysis was to create six different models to determine whi
     
     ### BalancedRandomForestClassifier
     
-    ###EasyEnsempleClassifier
+    ### EasyEnsempleClassifier
     
-    ###SMOTEENN
+    ### SMOTEENN
     
 
 ## Summary:
