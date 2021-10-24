@@ -5,17 +5,17 @@ The purpose of this analysis was to create six different models to determine whi
 
 ## Results: 
 
-    ### RandomOversamling
+   ### RandomOversamling
     
-    ### SMOTE
+   ### SMOTE
+   
+   ### ClusterCentroids
     
-    ### ClusterCentroids
+   ### BalancedRandomForestClassifier
     
-    ### BalancedRandomForestClassifier
+   ### EasyEnsempleClassifier
     
-    ### EasyEnsempleClassifier
-    
-    ### SMOTEENN
+   ### SMOTEENN
     
 
 ## Summary:
